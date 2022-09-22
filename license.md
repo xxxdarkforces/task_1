@@ -1,3 +1,5 @@
+[Перейти к содержанию](./readme.md)
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
