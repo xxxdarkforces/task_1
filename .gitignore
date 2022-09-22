@@ -1,2 +1,7 @@
-# ignore files
+# ignore vscode
 .vscode
+# ignore thumbs
+Thumbs.db
+# ignore all logs
+ *.log 
+
