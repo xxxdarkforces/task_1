@@ -5,6 +5,10 @@ LICENSE: [GNU General Public License v2](./license.md)
 ## Содержание
 1. [Основы *Git*](#основы-git)
 2. [Установка](./install.md)
+    * [Установка для Windows](/install.md#установка-git-в-windows)
+    * [Установка в Linux](/install.md#установка-git-в-linux)
+    * [Установка для Mac OS](/install.md#установка-git-для-mac-os)
+    * [Настройка *Git*](/install.md#установка-и-настройка-git)
 ---
 
 ## Основы Git
