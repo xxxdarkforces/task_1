@@ -1,4 +1,4 @@
-### [***Вернуться назад***](./readme.md)
+ [***Вернуться назад***](./readme.md#содержание)
 
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
@@ -339,3 +339,5 @@ proprietary programs.  If your program is a subroutine library, you may
 consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
+
+[***Вернуться назад***](./readme.md#содержание)
