@@ -8,7 +8,8 @@ LICENSE: [GNU General Public License v2](./license.md)
     * [Установка для Windows](/install.md#установка-git-в-windows)
     * [Установка в Linux](/install.md#установка-git-в-linux)
     * [Установка для Mac OS](/install.md#установка-git-для-mac-os)
-    * [Настройка *Git*](/install.md#установка-и-настройка-git)
+    * [Настройка *Git*](/install.md#настройка-git)
+3. [Создание нового репозитория](repository.md)
 ---
 
 ## Основы Git
