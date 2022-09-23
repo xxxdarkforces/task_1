@@ -18,23 +18,33 @@
 
 
 * Перейдите в настройки **Settings** созданного репозитория:
+---
 ![html_github_1](./images/html_github_1.png)
 
+---
 
 * В настройках репозитория найдите вкладку **Pages**:
+---
 ![html_github_2](./images/html_github_2.png)
 
+---
 
 * Установите в качестве источника файлов вашей страницы ветку master созданного репозитория:
+---
 ![html_github_3](./images/html_github_3.png)
 
+---
 
 * Теперь ваш сайт опубликован по адресу вида `https://your-account-name.github.io/repo-name` если файл html лежит в корене репозитория
 (у меня html файлы находится в отдельной папке, поэтому сайт доступен по адресу `https://your-account-name.github.io/repo-name/folder-name` )
+
+---
 ![html_github_4](./images/html_github_4.png)
 
+---
 
 * Для проверки работы сайта просто перейдите по адресу https://your-account-name.github.io/repo-name – и вы увидите свою страницу, загруженную на [GitHub Pages](https://pages.github.com/) :
+---
 ![html_github_5](./images/html_github_5.png)
 
 ---
