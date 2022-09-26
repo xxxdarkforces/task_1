@@ -43,7 +43,9 @@
 
 ---
 
-* Для проверки работы сайта просто перейдите по адресу https://your-account-name.github.io/repo-name – и вы увидите свою страницу, загруженную на [GitHub Pages](https://pages.github.com/) :
+* Для проверки работы сайта просто перейдите по адресу https://your-account-name.github.io/repo-name – и вы увидите свою страницу, загруженную на [GitHub Pages](https://pages.github.com/), вот мой пример :
+[html страница](https://xxxdarkforces.github.io/task_1/www/index.html)
+
 ---
 ![html_github_5](./images/html_github_5.png)
 
