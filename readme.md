@@ -2,6 +2,7 @@
 LICENSE: [GNU General Public License v2](./license.md)
 
 ---
+
 ## Содержание
 1. [Основы *Git*](#основы-git)
 2. [Установка](./install.md)
