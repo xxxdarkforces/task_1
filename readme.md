@@ -70,7 +70,7 @@ LICENSE: [GNU General Public License v2](./license.md)
 
 В итоге получается очень простой граф, состоящий из одной ветки (main) и четырех commit. Все это может превратиться в более сложный граф, состоящий из нескольких веток, которые сливаются в одну.
 
-![CommitMaster](./images/masterbug.png)
+![masterbug](./images/masterbug.png)
 
 [***Перейти к содержанию***](#содержание)
 
